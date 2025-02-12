@@ -10,3 +10,5 @@
         - 4_Categorical_features_實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb <br>
         - 5_Prepocessing_實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb <br>
         - 6_scikit_learn_Basic_實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb <br>
+- 作業四： <br>
+        - https://github.com/kyss0311/IMLP433/blob/main/Unit04/Linear%20Regression_HW.ipynb <br>
