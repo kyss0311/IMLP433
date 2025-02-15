@@ -12,3 +12,6 @@
         - 6_scikit_learn_Basic_實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb <br>
 - 作業四： <br>
         - https://github.com/kyss0311/IMLP433/blob/main/Unit04/Linear%20Regression_HW.ipynb <br>
+- 作業五：<br>
+        - SVM實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb <br>
+        - Logistic regression實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb <br>
