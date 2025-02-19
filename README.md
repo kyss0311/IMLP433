@@ -15,3 +15,6 @@
 - 作業五：<br>
         - SVM實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb <br>
         - Logistic regression實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb <br>
+- 作業六：<br>
+        - 1.3_ConfusionMatrix_實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb <br>
+        - 2.3_Ensemble實戰 https://github.com/kyss0311/IMLP433/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb <br>
