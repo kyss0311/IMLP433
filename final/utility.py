@@ -10,10 +10,9 @@ def testcase_report(dataset,classifier,Xtestset,X_test,ground_truth):
     error_index=np.where(pred!=ground_truth)[0]
     print('accuracy:',1-len(error_index)/len(Xtestset))
     print('error_index :',error_index)
-    #print('miss classification :',pred[error_index])
-    print('number of errors :%d/%d'%(len(error_index),len(X_test)))
+    print('miss classification :',pred[error_index])
     data_index=Xtestset.iloc[error_index].index
-
+    print('number of errors :%d/%d'%(len(error_index),len(X_test)))
     print('error data index:',data_index)
     Xtestset['target']=ground_truth
     Xtestset['pred']=pred
